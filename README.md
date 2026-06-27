@@ -2,9 +2,9 @@
 
 ## Statistics
 
-- Total Solved: 148
+- Total Solved: 149
 - Easy: 61
-- Medium: 80
+- Medium: 81
 - Hard: 7
 
 ---
@@ -23,6 +23,7 @@
 | 0015 | [3Sum](0015-3Sum) | Medium | C++ |
 | 0016 | [3Sum Closest](0016-3Sum-Closest) | Medium | C++ |
 | 0017 | [Letter Combinations of a Phone Number](0017-Letter-Combinations-of-a-Phone-Number) | Medium | C++ |
+| 0018 | [4Sum](0018-4Sum) | Medium | C++ |
 | 0019 | [Remove Nth Node From End of List](0019-Remove-Nth-Node-From-End-of-List) | Medium | C++ |
 | 0020 | [Valid Parentheses](0020-Valid-Parentheses) | Easy | C++ |
 | 0021 | [Merge Two Sorted Lists](0021-Merge-Two-Sorted-Lists) | Easy | C++ |

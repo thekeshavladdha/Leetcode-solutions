@@ -1,0 +1,15 @@
+{
+    "id": 18,
+    "title": "4Sum",
+    "slug": "4sum",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "24 ms",
+    "memory": "17.6 MB",
+    "timestamp": 1782558553,
+    "tags": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+    ]
+}
