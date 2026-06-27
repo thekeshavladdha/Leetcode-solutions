@@ -2,8 +2,8 @@
 
 ## Statistics
 
-- Total Solved: 149
-- Easy: 61
+- Total Solved: 150
+- Easy: 62
 - Medium: 81
 - Hard: 7
 
@@ -66,6 +66,7 @@
 | 0205 | [Isomorphic Strings](0205-Isomorphic-Strings) | Easy | C++ |
 | 0206 | [Reverse Linked List](0206-Reverse-Linked-List) | Easy | C++ |
 | 0217 | [Contains Duplicate](0217-Contains-Duplicate) | Easy | C++ |
+| 0219 | [Contains Duplicate II](0219-Contains-Duplicate-II) | Easy | C++ |
 | 0231 | [Power of Two](0231-Power-of-Two) | Easy | C++ |
 | 0234 | [Palindrome Linked List](0234-Palindrome-Linked-List) | Easy | C++ |
 | 0238 | [Product of Array Except Self](0238-Product-of-Array-Except-Self) | Medium | C++ |

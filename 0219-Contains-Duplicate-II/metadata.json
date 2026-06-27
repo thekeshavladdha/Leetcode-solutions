@@ -1,0 +1,15 @@
+{
+    "id": 219,
+    "title": "Contains Duplicate II",
+    "slug": "contains-duplicate-ii",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "68 ms",
+    "memory": "93.7 MB",
+    "timestamp": 1782559560,
+    "tags": [
+        "Array",
+        "Hash Table",
+        "Sliding Window"
+    ]
+}
