@@ -2,9 +2,9 @@
 
 ## Statistics
 
-- Total Solved: 147
+- Total Solved: 148
 - Easy: 61
-- Medium: 79
+- Medium: 80
 - Hard: 7
 
 ---
@@ -97,6 +97,7 @@
 | 0647 | [Palindromic Substrings](0647-Palindromic-Substrings) | Medium | C++ |
 | 0657 | [Robot Return to Origin](0657-Robot-Return-to-Origin) | Easy | C++ |
 | 0724 | [Find Pivot Index](0724-Find-Pivot-Index) | Easy | C++ |
+| 0731 | [My Calendar II](0731-My-Calendar-II) | Medium | C++ |
 | 0739 | [Daily Temperatures](0739-Daily-Temperatures) | Medium | C++ |
 | 0852 | [Peak Index in a Mountain Array](0852-Peak-Index-in-a-Mountain-Array) | Medium | C++ |
 | 0874 | [Walking Robot Simulation](0874-Walking-Robot-Simulation) | Medium | C++ |
