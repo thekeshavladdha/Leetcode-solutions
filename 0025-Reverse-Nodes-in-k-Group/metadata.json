@@ -1,0 +1,14 @@
+{
+    "id": 25,
+    "title": "Reverse Nodes in k-Group",
+    "slug": "reverse-nodes-in-k-group",
+    "difficulty": "Hard",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "16.4 MB",
+    "timestamp": 1782769967,
+    "tags": [
+        "Linked List",
+        "Recursion"
+    ]
+}

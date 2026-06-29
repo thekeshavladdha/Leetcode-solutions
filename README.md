@@ -2,10 +2,10 @@
 
 ## Statistics
 
-- Total Solved: 153
+- Total Solved: 155
 - Easy: 64
-- Medium: 82
-- Hard: 7
+- Medium: 83
+- Hard: 8
 
 ---
 
@@ -28,6 +28,8 @@
 | 0020 | [Valid Parentheses](0020-Valid-Parentheses) | Easy | C++ |
 | 0021 | [Merge Two Sorted Lists](0021-Merge-Two-Sorted-Lists) | Easy | C++ |
 | 0022 | [Generate Parentheses](0022-Generate-Parentheses) | Medium | C++ |
+| 0024 | [Swap Nodes in Pairs](0024-Swap-Nodes-in-Pairs) | Medium | C++ |
+| 0025 | [Reverse Nodes in k-Group](0025-Reverse-Nodes-in-k-Group) | Hard | C++ |
 | 0026 | [Remove Duplicates from Sorted Array](0026-Remove-Duplicates-from-Sorted-Array) | Easy | C++ |
 | 0027 | [Remove Element](0027-Remove-Element) | Easy | C++ |
 | 0028 | [Find the Index of the First Occurrence in a String](0028-Find-the-Index-of-the-First-Occurrence-in-a-String) | Easy | C++ |

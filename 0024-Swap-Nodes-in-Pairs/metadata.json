@@ -1,0 +1,14 @@
+{
+    "id": 24,
+    "title": "Swap Nodes in Pairs",
+    "slug": "swap-nodes-in-pairs",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "11.2 MB",
+    "timestamp": 1782769155,
+    "tags": [
+        "Linked List",
+        "Recursion"
+    ]
+}
